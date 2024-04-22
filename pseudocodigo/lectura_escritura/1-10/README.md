@@ -28,7 +28,7 @@
             Leer base 
             Escribir "Escribe la altura de un rectandulo"
             Leer altura 
-            Escribir "El area del rectangulo es de: " base * altura
+            Escribir "El area del rectangulo es de: " base * altura 
             Escribir "El perimetro del rectangulo es de: " 2 * altura + base
         FinAlgoritmo
     </code>
@@ -150,7 +150,7 @@
 <h3>Minutos a horas y minutos:</h3>
 <pre>
     <code>
-        Algoritmo Minurtos_horas
+        Algoritmo Minutos_horas
             Definir minutos Como Entero
             Escribir "Escribe una cantidad de minutos"
             Leer minutos 
