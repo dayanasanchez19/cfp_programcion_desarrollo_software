@@ -6,5 +6,6 @@
 ## [Bucles Para](./pseudocodigo/Bucles%20Para/)
 ## [Vectores](./pseudocodigo/Vectores/)
 ## [Matrices](./pseudocodigo/Matrices/)
+## [Funciones](./pseudocodigo/Funciones/)
 
 
