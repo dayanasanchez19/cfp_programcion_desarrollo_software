@@ -76,6 +76,23 @@
 <h3>Mayor de tres numeros:</h3>
         <pre>
         <code>
+            Algoritmo mayor_tre
+                Escribir "Ingresa el primer numero"
+                Leer uno 
+                Escribir "Ingresa el segundo numero"
+                Leerr dos 
+                Escribir "Ingresa el tercer numero"
+                Leer tres
+                Si uno > dos Entonces
+                Escribir "El mayor es: ", uno
+                SiNo 
+                Si dos > tres Entonces 
+                Escribir "El mayor es: ", dos
+                SiNo 
+                Escribir "El mayor es: ", tres
+                FinSi
+                FinSi
+            FinAlgoritmo
         </code>
         </pre>
 
