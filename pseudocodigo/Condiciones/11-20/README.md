@@ -1,53 +1,53 @@
 <h2>Ejercicio #11 🖥️ </h2>
 <h3>Numero positivo o negativo:</h3>
-    <pre>
-        <code> 
-            Algoritmo positivo_negativo
-                    Escribir "Ingresa un numero: "
-                    Leer Num
-                    si (Num < 0 ) Entonces
-                        Escribir "Tu numero es NEGATIVO"
-                    FinSi
-                    si (Num > 1) Entonces
-                        Escribir "Tu numero es POSITIVO"
-                    FinSi
-            FinAlgoritmo
-        </code>
-    </pre>
+<pre>
+    <code> 
+         Algoritmo positivo_negativo
+            Escribir "Ingresa un numero: "
+            Leer Num
+            si (Num < 0 ) Entonces
+                Escribir "Tu numero es NEGATIVO"
+            FinSi
+            si (Num > 1) Entonces
+                Escribir "Tu numero es POSITIVO"
+            FinSi
+        FinAlgoritmo
+    </code>
+</pre>
 
 <br>
 
 <h2>Ejercicio #12 🖥️ </h2>
 <h3>Par o Impar:</h3>
-        <pre>
-        <code> 
-            Algoritmo par_impar
-                Escribir "Ingresa un numero"
-                Leer nuo
-                si (nuo <> 2) Entonces
-                        nou = 2
-                    Escribir "Ingresaste un numero PAR"
-                FinSi
-                si (nuo <> 3) Entonces
-                    nou = 3
-                    Escribir "Ingresaste un numero IMPAR"
-                FinSi
-            FinAlgoritm
-        </code>
-        </pre>
+<pre>
+    <code> 
+        Algoritmo par_impar
+            Escribir "Ingresa un numero"
+            Leer nuo
+            si (nuo <> 2) Entonces
+                nou = 2
+            Escribir "Ingresaste un numero PAR"
+            FinSi
+            si (nuo <> 3) Entonces
+                nou = 3
+            Escribir "Ingresaste un numero IMPAR"
+            FinSi
+        FinAlgoritm
+    </code>
+</pre>
 
 <br>
 
 <h2>Ejercicio #13 🖥️ </h2>
 <h3>Dias de la semana:</h3>
-        <pre>
-        <code>
-            Algoritmo dia_semana
-                Escribir "Ingresa un numero del 1 al 7"
-                Leer dia 
-                si(dia = 1) Entonces
-                    Escribir "1.- Lunes"
-                FinSi
+<pre>
+    <code>
+        Algoritmo dia_semana
+            Escribir "Ingresa un numero del 1 al 7"
+            Leer dia 
+            si(dia = 1) Entonces
+                Escribir "1.- Lunes"
+            FinSi
                 si(dia = 2) Entonces
                     Escribir "2.- Martes"
                 FinSi
@@ -67,16 +67,16 @@
                     Escribir "7.- Domindo "
                 FinSi
             FinAlgoritmo
-        </code>
-        </pre>
+    </code>
+</pre>
 
 <br>
 
 <h2>Ejercicio #14 🖥️ </h2>
 <h3>Mayor de tres numeros:</h3>
-        <pre>
-        <code>
-            Algoritmo mayor_tre
+<pre>
+    <code>
+        Algoritmo mayor_tre
                 Escribir "Ingresa el primer numero"
                 Leer uno 
                 Escribir "Ingresa el segundo numero"
@@ -93,16 +93,16 @@
                 FinSi
                 FinSi
             FinAlgoritmo
-        </code>
-        </pre>
+    </code>
+</pre>
 
 <br>
 
 <h2>Ejercicio #15 🖥️ </h2>
 <h3>Aprovado o Reprobado:</h3>
-            <pre>
-            <code>
-                Algoritmo aprovar_reprobar 
+<pre>
+    <code>
+        Algoritmo aprovar_reprobar 
                     Escribir "Ingresa tu nota final"
                     Leer nota
                     si (nota >= 60) Entonces

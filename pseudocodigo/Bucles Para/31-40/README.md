@@ -1,7 +1,7 @@
 <h2>Ejercicio #31 🖥️ </h2>
 <h3>Suma de numeros:</h3>
-    <pre>
-        <code> 
+<pre>
+    <code> 
         Algoritmo sin_titulo
             Definir 
             anterior= 0
@@ -16,15 +16,15 @@
                 Escribir resultado
             FinPara
         FinAlgoritmo
-         </code>
-    </pre>
+    </code>
+</pre>
 
 <br>
 
 <h2>Ejercicio #32 🖥️ </h2>
 <h3>Tabla de multiplicar:</h3>
-    <pre>
-        <code> 
+<pre>
+    <code> 
         Algoritmo sin_titulo
             Definir num Como Entero
             Escribir "Ingres un numero para ser multiplicado"
@@ -33,15 +33,15 @@
                 Escribir num "x" n "=" num * n
             FinPara
         FinAlgoritmo
-        </code>
-    </pre>
+    </code>
+</pre>
 
 <br>
 
 <h2>Ejercicio #33 🖥️ </h2>
 <h3>Factorial:</h3>
-    <pre>
-        <code> 
+<pre>
+    <code> 
             Algoritmo sin_titulo
                 Definir factor Como Entero
                 Escribir "Ingresa un numero"
@@ -52,30 +52,30 @@
                 FinPara
                 Escribir total
             FinAlgoritmo
-         </code>
-    </pre>
+    </code>
+</pre>
 
 <br>
 
 <h2>Ejercicio #34 🖥️ </h2>
 <h3>Contador Regresivo:</h3>
-    <pre>
-        <code> 
+<pre>
+    <code> 
         Algoritmo sin_titulo
             Definir num como entero
             Para a = 10 Hasta 1 Con Paso -1 Hacer
                 Escribir a
             FinPara
         FinAlgoritmo
-         </code>
-    </pre>
+    </code>
+</pre>
 
 <br>
 
 <h2>Ejercicio #35 🖥️ </h2>
 <h3>Impresion de caracteres:</h3>
-    <pre>
-        <code> 
+<pre>
+    <code> 
         Algoritmo sin_titulo
             Definir text Como Entero
             Para i = 1 Hasta 5 Con paso 1 Hacer
@@ -83,15 +83,15 @@
                 Escribir text
             FinPara
         FinAlgoritmo
-         </code>
-    </pre>
+    </code>
+</pre>
 
 <br>
 
 <h2>Ejercicio #36 🖥️ </h2>
 <h3>Potencias de 2:</h3>
-    <pre>
-        <code> 
+<pre>
+    <code> 
             Algoritmo sin_titulo
                 Definir num, resultado Como Entero
                 Escribir "Ingresa un  numero"
@@ -106,15 +106,15 @@
                     resultado = num  * resultado
                 FinPara
             FinAlgoritmo
-         </code>
-    </pre>
+    </code>
+</pre>
 
 <br>
 
 <h2>Ejercicio #37 🖥️ </h2>
 <h3>Suma de numeros pares:</h3>
-    <pre>
-        <code> 
+<pre>
+    <code> 
         Algoritmo suma
             total = 0
             Para i = 2 Hasta 20 Con Paso 2 Hacer 
@@ -122,15 +122,15 @@
             FinPara
             Escribir total
         FinAlgoritmo
-         </code>
-    </pre>
+    </code>
+</pre>
 
 <br>
 
 <h2>Ejercicio #38 🖥️ </h2>
 <h3>Contador Digital:</h3>
-    <pre>
-        <code> 
+<pre>
+    <code> 
             Algoritmo sin_titulo
                 Definir linea Como Caracter
                 Definir num Como Entero 
@@ -143,15 +143,15 @@
                     Escribir linea;
                 FinPara
             FinAlgoritmo
-         </code>
-    </pre>
+    </code>
+</pre>
 
 <br>
 
 <h2>Ejercicio #39 🖥️ </h2>
 <h3>secuencia Fibonacci:</h3>
-    <pre>
-        <code> 
+<pre>
+    <code> 
             Algoritmo sin_titulo
                 Definir anterior, actual Como Entero
                 Para i = 0 Hasta 10 Con Paso 1 Hacer
@@ -166,15 +166,15 @@
                         Escribir resulatado
                 FinPara
             FinAlgoritmo
-         </code>
-    </pre>
+    </code>
+</pre>
 
 <br>
 
 <h2>Ejercicio #40 🖥️ </h2>
 <h3>Patron numerico:</h3>
-    <pre>
-        <code> 
+<pre>
+    <code> 
             Algoritmo contador_digitos
                 Definir num Como Caracter
                 Escribir "Ingresa un numero cualquiera"
@@ -186,7 +186,7 @@
                 FinPara
                 Escribir digito
             FinAlgoritmo
-         </code>
-    </pre>
+    </code>
+</pre>
 
 <br>
