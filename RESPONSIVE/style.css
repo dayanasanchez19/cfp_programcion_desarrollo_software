@@ -1,0 +1,41 @@
+*{
+    background-color: cornflowerblue;
+}
+img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.primerap{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.segundap{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-left: 80%;
+    gap: 20px;
+}
+
+.tercerap{
+    background-color: blue;
+}
+
+button{
+    color: white;
+}
+
+.mascotas{
+    width: 50%;
+    height: 50%;
+}
+
+h1{
+    text-align: center;
+    height: 60%;
+}
