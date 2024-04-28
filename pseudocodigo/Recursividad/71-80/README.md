@@ -163,6 +163,28 @@
 <h3>Torres de Hanoi:</h3>
     <pre>
         <code> 
+            //Si la cntidad de discos es igual a 1 pasa el disco de la t1 a la t3, entonces                 llama de nueo a la funcion llamando a la funcion exepto el ultimo, entonces los               va a mover a la t1 a la t2. 
+            //Luego el ultimo disco lo mueve de la t1 a la t3. 
+            //Finalmente llama a la funcion y mueve a todos los discos que estan en t2  a la                 t3.
+            Funcion Tores(disco, t1, t2, t3,)
+                Si disco == 1 Entonces
+                Escribir "Mover el disco de la torre",  t1, " a la torre", t3
+                SiNo 
+                Torres(disco-1, t1, t2, t3)
+                Escribir "Mover el disco de la torre", t1, "a la torre", t3
+                Torre(disco-1, t1, t2, t3)
+                FinSin
+            FinFuncion
+            //Se mide la cantidad de discos, se le pregunta al usuario cuantos discos quiere                usar y se usa a la funcion.
+            Algoritmo Hanoi
+                definir disco, t1, t2, t3 como Entero
+                t1 = 1
+                t2 = 2 
+                t3 = 3
+            Escribir "Ingresa con cuantos discos quieres jugar"
+            Leer disco
+            FinAlgoritmo
+            Torres(disco, t1, t2, t3)
         </code>
     </pre>
 
