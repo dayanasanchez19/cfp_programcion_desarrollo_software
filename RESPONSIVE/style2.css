@@ -1,0 +1,214 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+
+}
+
+.parte1 {
+    background-color: rgba(210, 174, 243, 0.884);
+    color: purple;
+    text-align: center;
+}
+
+.logotipo {
+    width: 20%;
+    height: 20%;
+    position: absolute;
+    top: -7%;
+    left: -1%;
+    margin: 25px 0 0 -15px;
+}
+
+.opciones {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    width: 35%;
+    height: 5%;
+    position: absolute;
+    top: -1%;
+    left: 70%;
+    margin: 25px 0 0 -15px;
+    background-color: rgb(224, 75, 224);
+    border-bottom-left-radius: 25px;
+}
+
+.colors {
+    background-color: rgb(228, 132, 228);
+    border-radius: 500px;
+}
+
+.opciones2 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    position: absolute;
+    top: 10%;
+    left: 2%;
+    margin: 25px 0 0 -15px;
+}
+
+.papa {
+    background-color: rgb(210, 174, 243, 0.884);
+    position: absolute;
+    top: 15%;
+    left: 1%;
+    width: 102%;
+    height: 55%;
+    margin: 25px 0 0 -15px;
+}
+
+.hijo {
+    background-color: purple;
+    color: white;
+    width: 85%;
+    height: 75%;
+    position: absolute;
+    top: 5%;
+    left: 7%;
+    margin: 25px 0 0 -15px;
+    border-radius: 5px;
+}
+
+.opcioness {
+    gap: 30px;
+}
+
+.especificaciones {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 33%;
+    left: 2%;
+    margin: 25px 0 0 -15px;
+    gap: 50px;
+    border-style: none;
+    border-radius: 50px;
+}
+
+.buscar {
+    background-color: orangered;
+    border-radius: 800px;
+    border-style: none;
+    height: 40px;
+    width: 100px;
+}
+
+.otra {
+    position: absolute;
+    top: 50%;
+    left: 37%;
+    margin: 25px 0 0 -15px;
+}
+
+.adultos {
+    position: absolute;
+    top: 70%;
+    left: 2%;
+    margin: 25px 0 0 -15px;
+}
+
+.iniciosecion {
+    width: 29%;
+    height: 20%;
+    position: absolute;
+    top: 3%;
+    left: 53%;
+    margin: 25px 0 0 -15px;
+    border: white 0 solid;
+    border-radius: 12px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5)
+}
+
+.color {
+    color: purple;
+}
+
+.ultimo {
+    background-color: rgb(227, 219, 219);
+    position: absolute;
+    top: 70%;
+    left: 1%;
+    width: 102%;
+    height: 55%;
+    margin: 25px 0 0 -15px;
+}
+
+.titulo {
+    background-color: rgb(227, 219, 219);
+    position: absolute;
+    top: 7%;
+    left: 7%;
+    margin: 25px 0 0 -15px;
+}
+
+.foto1 {
+    position: absolute;
+    top: 35%;
+    left: 14.5%;
+    margin: 25px 0 0 -15px;
+    background-color: white;
+    border-radius: 10px;
+    height: 55%;
+    width: 15%;
+
+}
+
+.fotos {
+    width: 100%;
+    height: 65%;
+}
+
+.foto2 {
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    margin: 25px 0 0 -15px;
+    background-color: white;
+    border-radius: 10px;
+    height: 55%;
+    width: 15%;
+
+}
+
+.fotos2 {
+    width: 100%;
+    height: 65%;
+}
+
+.foto3 {
+    position: absolute;
+    top: 35%;
+    left: 55%;
+    margin: 25px 0 0 -15px;
+    background-color: white;
+    border-radius: 10px;
+    height: 55%;
+    width: 15%;
+
+}
+
+.fotos3 {
+    width: 100%;
+    height: 65%;
+}
+
+.foto4 {
+    position: absolute;
+    top: 35%;
+    left: 75%;
+    margin: 25px 0 0 -15px;
+    background-color: white;
+    border-radius: 10px;
+    height: 55%;
+    width: 15%;
+
+}
+
+.fotos4 {
+    width: 100%;
+    height: 65%;
+}
