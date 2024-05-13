@@ -1,0 +1,141 @@
+*{
+    background-color: black;
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+}
+
+.logo {
+    width: 55px;
+    height: 55px;
+    border-radius: 55%;
+    margin-left: 1%;
+}
+
+.primera {
+    display: flex;
+    gap: 17px;
+    padding-top: 25px;
+    color: white;  
+}
+
+.uno, .dos{
+    background: transparent;
+    border: transparent;
+    color: white;
+    padding-top: 25px;
+}
+
+
+.segunda {
+    display: flex;
+    flex-direction: row;
+    margin-left: 72%;
+    gap: 5%;
+    color: white;
+}
+
+.cuerpo {
+    background: linear-gradient( orange, 50%, crimson, blue);
+}
+
+.don {
+    width: 30%;
+    height: 30%;
+    background-color: transparent;
+}
+
+.texto {
+    width: 50%;
+    height: 20%;
+    position: absolute;
+    top: 22%;
+    left: 50%;
+    margin:  25px 0 0 -15px;    
+    background-color: transparent;
+    color: white;
+}
+
+.boton1{
+    width: 30%;
+    height: 40%;
+    color: white;
+}
+
+.boton2{
+    width: 30%;
+    height: 40%;
+    color: white;
+    background-color: transparent;
+    border: 10%;
+}
+
+.elemento1{
+    background-color: rgba(114, 109, 109, 0.11);
+    width: 25%;
+    height: 25%;
+    position: absolute;
+    top: 35%;
+    left: 3%;
+    margin:  25% 0 0 -15px; 
+    color: white;
+}
+
+.elemento2{
+    background-color: rgba(114, 109, 109, 0.11);
+    width: 25%;
+    height: 25%;
+    position: absolute;
+    top: 35%;
+    left: 30%;
+    margin:  25% 0 0 -15px; 
+    color: white;
+}
+
+.elemento3{
+    background-color: rgba(114, 109, 109, 0.11);
+    width: 30%;
+    height: 25%;
+    position: absolute;
+    top: 35%;
+    left: 60%;
+    margin:  25% 0 0 -15px; 
+    color: white;
+    background-color: transparent;
+}
+
+.js{
+    width: 17%;
+    height: 24%;
+    background-color: transparent;
+}
+
+.angular{
+    width: 15%;
+    height: 22%;
+    background-color: transparent;
+}
+
+.rosa{
+    color: crimson;
+    font-size: 10px;
+}
+
+.grande{
+    font-size: 50px;
+}
+
+/*Movil*/
+@media screen and (max-width: 767px){
+
+}
+
+/*Tablet*/
+@media screen and (min-width: 767px) and (max-width: 1023px){
+
+}
+
+/*Computadora*/
+@media screen and (min-width: 1023px){
+    
+}
